@@ -1,9 +1,11 @@
 # **Omar barakat**
 ### _Certified IT Security Analyst_
 
+![profile image](https://github.com/omarstar/Skills_Tree/blob/cv_MD/faceMe.png)
+
 >_Email:_ obarakat12@gmail.com \  
 _phone:_ +961 70 397 756 \  
-
+[my linkedIn page](https://lb.linkedin.com/in/omar-barakat-b20287a3)
 
 ---
 ### **Objective:**
