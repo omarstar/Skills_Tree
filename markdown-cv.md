@@ -1,5 +1,5 @@
 # **Omar barakat**
-![profile image](https://github.com/omarstar/Skills_Tree/blob/cv_MD/faceMe.png)
+![profile image](./faceMe.png)
 ### _Certified IT Security Analyst_
 
 >_Email:_ obarakat12@gmail.com  
